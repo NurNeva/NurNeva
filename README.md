@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**NurNeva/NurNeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NurNeva/NurNeva** is a ✨ _special_ ✨ repository 
 
 :zap: I love programming and books
 🌱 I’m addicted to learning and growing every day
