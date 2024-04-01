@@ -13,24 +13,18 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/neva-qa-tester/)
  
   ![](https://komarev.com/ghpvc/?username=NurNeva)
-
-
+  
 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=NurNeva&theme=chartreuse-dark" alt="my github stats" width="49%"/>
-
 
 Commit Statistics 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurNeva&theme=chartreuse-dark" alt="my commit status" width="49%" />
 
-
-
 Most Used Language Statistics
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurNeva&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
-
-
 
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
