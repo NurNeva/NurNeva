@@ -3,11 +3,11 @@
 
 **NurNeva/NurNeva** is a ✨ _special_ ✨ repository 
 
-:zap: I love programming and books
-🌱 I’m addicted to learning and growing every day
-:weight_lifting: I enjoy doing sports
-:airplane: I love traveling and exploring new places
-:earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
+- :zap: I love programming and books
+- 🌱 I’m addicted to learning and growing every day
+- :weight_lifting: I enjoy doing sports
+- :airplane: I love traveling and exploring new places
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 🌱 How to find me: 
 
   - :office: [LinkedIn](https://www.linkedin.com/in/neva-qa-tester/)
