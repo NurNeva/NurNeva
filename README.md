@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**NurNeva/NurNeva** is a ✨ _special_ ✨ repository 
+I am Nur Neva, 
 
 - :zap: I love programming and books
 - 🌱 I’m addicted to learning and growing every day
