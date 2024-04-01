@@ -16,8 +16,8 @@ the world through my blogs
 
 GitHub Statistics
 
- <img src="https://github-readme-stats.vercel.app/api?
-username=NurNeva&theme=chartreuse-dark" alt="my github stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NurNeva&theme=chartreuse-dark" alt="my github stats" width="49%"/>
+
 
 Commit Statistics 
 
@@ -30,6 +30,7 @@ Kod:
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
 username=NurNeva&theme=chartreuse-dark&layout=compact" alt="languages" 
 width="50%">
+
 
 
 ![](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
