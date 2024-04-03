@@ -16,15 +16,15 @@ I am Nur Neva,
   
 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=NurNeva&theme=chartreuse-dark" alt="my github stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NurNeva&theme=chartreuse-dark" alt="my github stats" width="49%" style="border-radius: 8px; box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);"/>
 
 Commit Statistics 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NurNeva&theme=chartreuse-dark" alt="my commit status" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NurNeva&theme=chartreuse-dark" alt="my commit status" width="49%" style="border-radius: 8px; box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);"/>
 
 Most Used Language Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurNeva&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurNeva&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" style="border-radius: 8px; box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);"/>
 
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
