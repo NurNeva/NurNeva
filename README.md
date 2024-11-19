@@ -3,7 +3,7 @@
 
 I am Nur Neva, 
 
-- :zap: I love programming and books
+- :zap: I love programming and art
 - 🌱 I’m addicted to learning and growing every day
 - :weight_lifting: I enjoy doing sports
 - :airplane: I love traveling and exploring new places
